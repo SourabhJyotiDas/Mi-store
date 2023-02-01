@@ -8,7 +8,7 @@ const PreNavbar = () => {
         <>
             <div className="md:py-3 md:px-3 md:text-sm bg-[#1d1c1c] text-gray-400 hidden md:flex md:items-center md:justify-between lg:px-20 ">
                 <div className='md:space-x-1 lg:space-x-3'>
-                    <a className='text-gray-400 hover:text-white hover:no-underline font-medium' href="https://www.mi.com/in/">MI INDIA kela</a> <span className='text-gray-400'>|</span>
+                    <a className='text-gray-400 hover:text-white hover:no-underline font-medium' href="https://www.mi.com/in/">MI INDIA</a> <span className='text-gray-400'>|</span>
                     <a className='text-gray-400 hover:text-white hover:no-underline font-medium' href="https://in.event.mi.com/in/install-mi-store">GET MI STORE APP</a> <span className='text-gray-400'>|</span>
                     <a className='text-gray-400 hover:text-white hover:no-underline font-medium' href="https://www.mi.com/in/service/help/#category_id=1&pagenum=1&channel=1">ONLINE HELP</a> <span className='text-gray-400'>|</span>
                     <a className='text-gray-400 hover:text-white hover:no-underline font-medium' href="https://www.mi.com/in/service/authorized_stores/">RETAIL STORE ﹀</a>
